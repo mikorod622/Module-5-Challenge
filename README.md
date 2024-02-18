@@ -43,3 +43,4 @@ Copyright (c) 2024 mikorod622
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
+Link to website: https://mikorod622.github.io/Work-Day-Scheduler/
